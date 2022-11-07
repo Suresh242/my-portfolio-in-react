@@ -61,7 +61,7 @@ export const Projects = () => {
             </div>
           </Col>
         </Row>
-        <Row class="  mb-5">
+        <Row className="  mb-5">
           <Col md="6" className="  mb-3">
             <img src={aa} alt="project a" width="100%" />
           </Col>
